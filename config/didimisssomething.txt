@@ -1,4 +1,4 @@
 mirrorApiURL:PLACE_YOUR_MIRROR_API_URL_IN_HERE
 apiURL:https://api.github.com/repos/arukusuiinpu/alvas_host/releases/latest
-githubToken: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
+githubToken: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
 gitlabToken:PLACE_YOUR_GITLAB_TOKEN_IN_HERE
